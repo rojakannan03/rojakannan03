@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Roja Kanna
+- 👋 Hi, I’m Roja Kannan
 - 👀 I’m interested in nature
 - 🌱 I’m currently learning tamil language
 - 💞️ I’m looking to collaborate on pcb designing
